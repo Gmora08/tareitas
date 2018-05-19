@@ -1,0 +1,9 @@
+.task button {
+  display: inline-block;
+  margin-right: 3em;
+}
+
+.task p {
+  display: inline-block;
+  margin: 0;
+}
